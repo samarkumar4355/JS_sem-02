@@ -1,0 +1,4 @@
+cache ek object hota h 
+agar aapake pass phle se data h toh aap time usko execute krne me nhi jayega
+cache eke object hoti h 
+generalides memosied function
